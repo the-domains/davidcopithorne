@@ -34,8 +34,8 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/95072802'
 title: Sidney Tapia - Behind The Spray
-datePublished: '2016-02-02T00:43:12.742Z'
-dateModified: '2016-02-02T00:38:05.239Z'
+datePublished: '2016-02-02T00:43:13.138Z'
+dateModified: '2016-02-02T00:33:18.807Z'
 sourcePath: _posts/2016-02-02-sidney-tapia-behind-the-spray.md
 published: true
 inFeed: true
