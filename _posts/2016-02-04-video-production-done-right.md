@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T04:53:55.022Z'
+datePublished: '2016-02-16T04:53:54.902Z'
 dateModified: '2016-02-16T04:53:42.073Z'
 title: 'VIDEO PRODUCTION DONE RIGHT '
 author: []
