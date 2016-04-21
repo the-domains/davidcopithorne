@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords: []
 description: "All my best work from the past year that i've directed, shot and edited myself. David Copithorne Director / Cinematographer / Editor Contact: dcfotofilm@gmail.com"
 app_links:
@@ -40,13 +40,16 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/163646507'
 title: David Copithorne Show Reel 2015
-datePublished: '2016-04-21T05:15:09.904Z'
-dateModified: '2016-04-21T05:11:16.044Z'
-sourcePath: _posts/2016-04-21-david-copithorne-show-reel-2015.md
-published: true
+datePublished: '2016-04-21T05:21:52.291Z'
+dateModified: '2016-04-21T05:21:47.116Z'
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
+sourcePath: _posts/2016-04-21-david-copithorne-show-reel-2015.md
+published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
