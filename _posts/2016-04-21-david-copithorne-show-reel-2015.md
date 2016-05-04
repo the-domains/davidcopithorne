@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/163762363'
+inLanguage: null
+keywords: []
+description: "Some of my best projects i've worked on over the last 2 years. All directed, shot and edited by David Copithorne"
+datePublished: '2016-05-04T19:45:12.647Z'
+dateModified: '2016-05-04T18:27:44.195Z'
 author:
   - name: David Copithorne
     url: 'http://vimeo.com/user1676702'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "Some of my best projects i've worked on over the last 2 years. All directed, shot and edited by David Copithorne"
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/163762363'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/163762363'
 title: David Copithorne Show Reel 2015
-datePublished: '2016-04-21T23:43:08.560Z'
-dateModified: '2016-04-21T23:42:55.073Z'
 sourcePath: _posts/2016-04-21-david-copithorne-show-reel-2015.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
